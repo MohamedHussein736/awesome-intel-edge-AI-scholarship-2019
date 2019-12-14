@@ -18,7 +18,6 @@ Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 Feedback and contributions are always welcome and appreciated.
 You can contribute interesting links that might be helpful for our community, for example articles, presentations, videos, podcasts, etc.
 
-[Before you start: Read our guidelines](contributing.md)
 
 ### Just Getting Started
 
