@@ -13,7 +13,7 @@ A curated list of awesome resources for recipients of the [Intel® Edge AI Schol
 Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 
 
-~<p align="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/16764177/71134609-93529600-2207-11ea-8efb-6b4f3e280bfa.png">
 </p>
 
@@ -31,7 +31,7 @@ This repository is divided into sub-folders full of resources for each lesson an
 
 * [Lesson 0: Prerequisites and Installation](00.Prerequisites-and-Installation/README.md)
   * [Prerequisites](00.Prerequisites-and-Installation/Prerequisites.md)
-    * [Installation](00.Prerequisites-and-Installation/Installation.md)
+  * [Installation](00.Prerequisites-and-Installation/Installation.md)
 * [Lesson 1: Introduction to AI at the Edge](01.Introduction-to-AI-at-the-Edge/README.md)
   * [To be added]()
 * [Lesson 2: Leveraging Pre-Trained Models](02.Leveraging-Pre-Trained-Models/README.md)
