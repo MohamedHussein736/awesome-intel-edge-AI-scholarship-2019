@@ -24,6 +24,10 @@ Feedback and contributions are always welcome and appreciated.
 You can contribute interesting links that might be helpful for our community, for example articles, presentations, videos, podcasts, etc.
 If its your first time to contribute refer to this [repo](https://github.com/firstcontributions/first-contributions)
 
+### Just Getting Started
+
+- [Udacity Discussion Forum](https://slackin.udacity.com/inteledgeaichallenge) (Slack Group)
+- [Intel® Edge AI Scholarship Program Website](https://sites.google.com/udacity.com/intel-edge-ai-scholarship)
 
 ### Content
 
