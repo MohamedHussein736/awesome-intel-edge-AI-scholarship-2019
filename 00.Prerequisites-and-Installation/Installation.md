@@ -1,3 +1,17 @@
+Table of Contents
+=================
+
+* [Table of Contents](#table-of-contents)
+   * [1. Introduction](#1-introduction)
+   * [2. Prerequisite](#2-prerequisite)
+   * [3. Installation](#3-installation)
+         * [3.1 Binary](#31-binary)
+         * [3.2 Building from Source](#32-building-from-source)
+            * [3.2.1 Building](#321-building)
+            * [3.2.2 Installation](#322-installation)
+         * [3.3 Docker Container](#33-docker-container)
+   * [4. Test Your installation](#4-test-your-installation)
+
 ## 1. Introduction
 
 Intel® Edge AI Scholarship from Udaciy is based on The [OpenVINO™](https://software.intel.com/en-us/openvino-toolkit) toolkit quickly deploys applications and solutions that emulate human vision. Based on Convolutional Neural Networks (CNN), the Toolkit extends computer vision (CV) workloads across Intel® hardware, maximizing performance.
@@ -135,7 +149,7 @@ Install Intel® Distribution of OpenVINO™ toolkit for Linux using [official do
 	export GFLAGS_LIB=/opt/openvino_toolkit/dldt/inference-engine/bin/intel64/Release/lib/libgflags_nothreads.a
 	```
 
-#### 3.2 Docker Container
+#### 3.3 Docker Container
 
 - Follow this [Guide](https://github.com/vuiseng9/openvino-ubuntu) to set up and run OpenVINO in Docker Ubuntu Environment on Intel CPU with Integrated Graphics.
 
