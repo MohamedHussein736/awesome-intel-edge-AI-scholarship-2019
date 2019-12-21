@@ -33,7 +33,7 @@ If its your first time to contribute refer to this [repo](https://github.com/fir
 
 This repository is divided into sub-folders full of resources for each lesson and any topic that needs more information.
 
-* [Lesson 0: Prerequisites and Installation](00.Prerequisites-and-Installation/README.md)
+* [Lesson 0: Prerequisites and Installation](00.Prerequisites-and-Installation)
   * [Prerequisites](00.Prerequisites-and-Installation/Prerequisites.md)
   * [Installation](00.Prerequisites-and-Installation/Installation.md)
 * [Lesson 1: Introduction to AI at the Edge](01.Introduction-to-AI-at-the-Edge/README.md)
