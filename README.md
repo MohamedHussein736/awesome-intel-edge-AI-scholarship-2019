@@ -5,6 +5,7 @@
   <br>
   <br>
 </p>
+![Awesome](certificate.jpg)
 
 ## Awesome Intel® Edge AI Scholarship Foundation Course Nanodegree Program 2019/2020
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
