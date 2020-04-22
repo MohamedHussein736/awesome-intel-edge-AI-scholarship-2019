@@ -5,8 +5,7 @@
   <br>
   <br>
 </p>
-![Awesome](certificate.jpg)
-
+ 
 ## Awesome Intel® Edge AI Scholarship Foundation Course Nanodegree Program 2019/2020
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
  
@@ -49,6 +48,7 @@ This repository is divided into sub-folders full of resources for each lesson an
 * [Q&A sessions](Q&A-sessions/README.md)
 
 
+![certificate](certificate.jpg)
 
 
 
